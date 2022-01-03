@@ -1,0 +1,22 @@
+{
+    "test":[
+        {
+            "id": 1,
+            "text": "tui là thỏ",
+            "day": "21/11 sáng",
+            "reminder": true
+        },
+        {
+            "id": 2,
+            "text": "là thỏ thì cho xem tai",
+            "day": "21/11 chiều",
+            "reminder": true
+        },
+        {
+            "id": 3,
+            "text": "còn nai thì sao z",
+            "day": "22/11 sáng",
+            "reminder": true
+        }
+    ]
+}
